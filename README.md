@@ -1,6 +1,10 @@
 Shuffle
 =======
 
+<a href="https://play.google.com/store/apps/details?id=com.github.florent37.florent.champigny">
+  <img alt="Android app on Google Play" src="https://developer.android.com/images/brand/en_app_rgb_wo_45.png" />
+</a>
+
 [![API](https://img.shields.io/badge/API-10%2B-green.svg)][repo]
 [![Build Status](https://travis-ci.org/Meetic/Shuffle.svg?branch=master)](https://travis-ci.org/Meetic/Shuffle)
 
@@ -281,7 +285,11 @@ We encourage the community to contribute to the project by opening tickets and/o
 
 [![logo meetic](media/meetic.jpg)][meetic]
 
-Contributor: [Florent Champigny][florent]   
+Contributor: [Florent Champigny][florent]
+
+<a href="https://play.google.com/store/apps/details?id=com.github.florent37.florent.champigny">
+  <img alt="Android app on Google Play" src="https://developer.android.com/images/brand/en_app_rgb_wo_45.png" />
+</a>
 
 #License
 
